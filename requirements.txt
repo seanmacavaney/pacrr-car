@@ -1,0 +1,6 @@
+git+https://github.com/TREMA-UNH/trec-car-tools.git#subdirectory=python3
+h5py==2.7.1
+tqdm==4.19.5
+numpy==1.14.2
+sklearn
+nltk==3.2.5
