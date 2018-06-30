@@ -34,7 +34,7 @@ On 24 CPUs, it takes about 30min to generate simmats for automatic in 1 fold
 way to make it faster. It takes a while just to read through the paragraphs
 file itself, though.
 
-### Samle
+### Sample
 
 ```
 python generate_simmats.py --run car-train/train.fold0.cbor.hierarchical.qrels --outlines car-train/train.fold0.cbor.outlines --embeddings glove.6B.50d.txt --paragraphs car-paragraphcorpus/paragraphcorpus.cbor
